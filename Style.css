@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: azure;
+    font-size: 15px;
+    font-family: Inter;
+}
+.first{
+    text-align: center;
+    color: azure;
+}
+.a{
+    text-align: left;
+    display: inline-block;
+}
+.b{
+    text-align: right;
+    display: inline-block;
+}
+.list{
+    list-style-position: inside;
+}
