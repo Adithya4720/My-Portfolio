@@ -2,20 +2,40 @@ body{
     background-color: black;
     color: azure;
     font-size: 15px;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
 }
 .first{
     text-align: center;
     color: azure;
+    font-family: 'Inter', sans-serif;
 }
 .a{
     text-align: left;
     display: inline-block;
+    font-family: 'Inter', sans-serif;
+}
+pre{
+    font-family: 'Inter', sans-serif;
 }
 .b{
     text-align: right;
     display: inline-block;
+    font-family: 'Inter', sans-serif;
 }
 .list{
     list-style-position: inside;
+
+}
+a{
+    text-decoration: none;
+}
+.git{
+    text-align: left;
+    text-decoration: none;
+}
+.Linkedin{
+    text-align: center;
+}
+.mail{
+    text-align: right;
 }
